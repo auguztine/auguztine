@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Augustine
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me ampofoaugustine0@gmail.com
 
 <!---
